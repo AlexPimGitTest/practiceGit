@@ -13,6 +13,7 @@ public class PracticeGitApplication {
         if (h > 5) {
             System.out.println("aaaaaaa"+h);
         } else System.out.println("bbbbbb"+h);
+        System.out.println("TEST");
     }
 
 
