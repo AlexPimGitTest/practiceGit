@@ -14,7 +14,7 @@ public class PracticeGitApplication {
             System.out.println("aaaaaaa"+h);
         } else System.out.println("bbbbbb"+h);
 
-        System.out.println("branch MASTER");
+        System.out.println("branch MASTER2");
     }
 
 
